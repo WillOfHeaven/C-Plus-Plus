@@ -1,0 +1,64 @@
+repo_name: WillOfHeaven/C-Plus-Plus
+report_id: 93cc145fd157054d9ab93ed3b2c35fd8
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T10:07:22+00:00'
+requested_by: poypoyan
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/WillOfHeaven/C-Plus-Plus
+  detection_source: Repo Metadata
+- name: CMake
+  description: An open-source system that manages the build process
+  website_url: http://www.cmake.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/WillOfHeaven/C-Plus-Plus
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/WillOfHeaven/C-Plus-Plus
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/WillOfHeaven/C-Plus-Plus
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/WillOfHeaven/C-Plus-Plus/blob/master/.github/workflows/approved-label.yml
+  detection_source: ".github/workflows/approved-label.yml"
+  last_updated_by: David Leal
+  last_updated_on: 2021-05-10 15:28:23.000000000 Z
